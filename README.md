@@ -1,2 +1,2 @@
 # card
-landing card
+Первая лаба
